@@ -8,3 +8,4 @@ total time, time parse, data file name (path)
 You can change these parameters to test new dataset out, which can be found under the folder: data.  
 
 ## Demo
+![image](https://github.com/JolinQChen/Berkeley-CS61b-Data-Structure/blob/master/proj0/images/Demo.gif)
