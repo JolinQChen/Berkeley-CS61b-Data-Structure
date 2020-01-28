@@ -1,2 +1,3 @@
 # Berkeley-CS61b-Data-Structure
-Java
+This repository contains projects of the course CS61b
+Can be considered as the implementation of data structure in Java
